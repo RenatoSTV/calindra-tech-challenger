@@ -10,7 +10,7 @@ function App() {
       <Search/>
       <footer>
         <div>Todos os direitos reservados a <a href="https://calindra.tech/">Calindra</a>.</div>
-       <div>Desenvolvido por <a href="https://github.com/RenatoSTV">Renato ST</a></div>
+       <div>Desenvolvido por <a href="https://github.com/RenatoSTV">Renato ST</a>.</div>
       </footer>
     </div>
   );
